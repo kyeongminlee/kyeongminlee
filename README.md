@@ -6,17 +6,10 @@
 
 ## 🪄 Skill Set
 ### Programming Language  
-<img src="https://img.shields.io/badge/Python-red?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-blue?style=flat-square&logo=R&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-yello?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-red?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/R-blue?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-yello?style=flat-square&logo=MySQL&logoColor=white"/>
 
 ### Data Platform  
-<img src="https://img.shields.io/badge/Elastic_Stack-green?style=flat-square&logo=elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-black?style=flat-square&logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spark-orange?style=flat-square&logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-blue?style=flat-square&logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/NiFi-gray?style=flat-square&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic_Stack-green?style=flat-square&logo=elastic&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-black?style=flat-square&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/Spark-orange?style=flat-square&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-blue?style=flat-square&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/NiFi-gray?style=flat-square&logo=apache&logoColor=white"/>
 
 
 <!--
